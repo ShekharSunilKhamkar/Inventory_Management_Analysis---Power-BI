@@ -8,6 +8,12 @@ This project showcases an in-depth analysis of inventory management using a Powe
 - Essential KPIs for tracking inventory performance at a glance.
 - User-friendly design for effortless interaction.
 
+
+![c342d054-ec5b-483d-80ee-3668e266b52c](https://github.com/ShekharSunilKhamkar/Inventory_Management_Analysis---Power-BI/assets/167413419/4a07c2dd-20fc-4c5f-a1bf-124773554fbe)
+
+
+
+
 ## Problem Statements:
 - Identify the Top selling Product and the revenue it generates.
 - Identify the products with highest and lowest ordered quantity.
