@@ -9,6 +9,7 @@ This project showcases an in-depth analysis of inventory management using a Powe
 - User-friendly design for effortless interaction.
 
 
+![c342d054-ec5b-483d-80ee-3668e266b52c-ezgif com-video-to-gif-converter](https://github.com/ShekharSunilKhamkar/Inventory_Management_Analysis---Power-BI/assets/167413419/efce2c64-ff2c-4c4f-857b-768f9fbc22d1)
 
 
 
